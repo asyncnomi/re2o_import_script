@@ -37,8 +37,8 @@ SCHOOL_ID = 52  # The school id in which to add the user
 ARTICLES = [
     (1, 4)
 ]  # The article to set to the user in the format (id, quantity). Let empty to add no article.
-PAYMENT_METHOD = 6  # Payment method for the articles.
-COMMENT = "GTL-SUMMER"  # Comment that will be added to every user created
+PAYMENT_METHOD = 1  # Payment method for the articles.
+COMMENT = "Example"  # Comment that will be added to every user created
 
 # Code
 
