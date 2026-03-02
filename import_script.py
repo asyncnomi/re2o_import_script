@@ -32,8 +32,8 @@ from users.models import Adherent, School, User
 
 # Paramaters
 
-PATH = "/var/www/re2o/re2o_import_script/list-users.csv"
-SCHOOL_ID = 52  # The school id in which to add the user
+PATH = "./list-users.csv"
+SCHOOL_ID = 1  # The school id in which to add the user
 ARTICLES = [
     (1, 4)
 ]  # The article to set to the user in the format (id, quantity). Let empty to add no article.
